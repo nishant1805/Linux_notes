@@ -1,1 +1,11 @@
+Are "GNU/Linux" and "Linux" any different?
+You keep referring to one and the other alternatively. What is this all about?
+Originally, Linux refers to a core component (called the kernel) that fits within the GNU system. What users run today are, to be precise, "distributions of the GNU/Linux system".
 
+In practice, the word "Linux" caught on much better (unsurprisingly), and today people refer to the whole system as simply "Linux". This causes a great deal of controversy.
+
+Calling the system GNU/Linux is much more meaningful, technically (end-users use a lot of "GNU" and a little of "Linux") but also philosophically: the strength and momentum of the Free Software movement started with and are still carried by the GNU project.
+
+Calling the system Linux is more practical and appealing for computer users that often believe Windows is the only thing on earth.
+
+To avoid confusion, we use "GNU/Linux" to refer to operating system distributions that include GNU software and the Linux kernel. When we use "Linux" without the GNU part, we refer to the kernel.
